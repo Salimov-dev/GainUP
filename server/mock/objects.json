@@ -1,0 +1,268 @@
+[
+  {
+    "id": "1041640353630",
+    "created_at": 1662066000000,
+    "status": "641dd030f9e759ee4fa79538",
+    "bookmark": false,
+    "contact": {
+      "phone": "+7(911)1254588",
+      "name": "Олег Муртазаев",
+      "position": "6415c19b2baf8f13d501d404",
+      "email": "oleg@mail.ru"
+    },
+    "location": {
+      "city": "Санкт-Петербург",
+      "adress": "Софийская ул., 24",
+      "district": "6415b5375c121b8871677d59",
+      "latitude": 59.87631856423055,
+      "longitude": 30.401926499999913,
+      "zoom": 16
+    },
+    "estateOptions": {
+      "rentPrice": "700000",
+      "prepaidPrice": "1400000",
+      "rentalHolidays": "40",
+      "totalSquare": "1200",
+      "rentSquare": "700",
+      "premisesHeight": "4.2",
+      "premisesFloor": "Бетон, антипыль, 3т/м2"
+    },
+    "accordTerms": {
+      "readyToRent": "Нет",
+      "readyToContract": "Да",
+      "readyToRenovation": "Неизвестно"
+    },
+    "description": {
+      "comment": "ТЦ Эврика. Форматное помещение занято Семишаговым",
+      "fullDescription": "Форматное ОСЗ. Стоит рассмотреть его, предлагаю брать в работу. Собственник лояльный к условиям договора"
+    }
+  },
+  {
+    "id": "1617826328885",
+    "created_at": 1672866000000,
+    "status": "641dd030f9e759ee4fa79538",
+    "bookmark": false,
+    "contact": {
+      "phone": "+7(911)7783466",
+      "name": "Филип Бедросович",
+      "position": "6415c19b2baf8f13d501d403",
+      "email": "fill@mail.ru"
+    },
+    "location": {
+      "city": "Санкт-Петербург",
+      "adress": "Альпийский пер., 29",
+      "district": "6415b5375c121b8871677d5c",
+      "latitude": 59.85349156429647,
+      "longitude": 30.38373599999998,
+      "zoom": 16
+    },
+    "estateOptions": {
+      "rentPrice": "700000",
+      "prepaidPrice": "1400000",
+      "rentalHolidays": "40",
+      "totalSquare": "1200",
+      "rentSquare": "700",
+      "premisesHeight": "4.2",
+      "premisesFloor": "Бетон, антипыль, 3т/м2"
+    },
+    "accordTerms": {
+      "readyToRent": "Нет",
+      "readyToContract": "Да",
+      "readyToRenovation": "Неизвестно"
+    },
+    "description": {
+      "comment": "ТЦ Эврика. Форматное помещение занято Семишаговым",
+      "fullDescription": "Форматное ОСЗ. Стоит рассмотреть его, предлагаю брать в работу. Собственник лояльный к условиям договора"
+    }
+  },
+  {
+    "id": "1357307702240",
+    "created_at": 1675026000000,
+    "status": "641dd030f9e759ee4fa79538",
+    "bookmark": false,
+    "contact": {
+      "phone": "+7(951)5325523",
+      "name": "Николай Соболев",
+      "position": "6415c19b2baf8f13d501d401",
+      "email": "kolya@mail.ru"
+    },
+    "location": {
+      "city": "Санкт-Петербург",
+      "adress": "Бухарестская ул., 144",
+      "district": "6415b5375c121b8871677d5f",
+      "latitude": 59.8338045643081,
+      "longitude": 30.4197225,
+      "zoom": 16
+    },
+    "estateOptions": {
+      "rentPrice": "700000",
+      "prepaidPrice": "1400000",
+      "rentalHolidays": "40",
+      "totalSquare": "1200",
+      "rentSquare": "700",
+      "premisesHeight": "4.2",
+      "premisesFloor": "Бетон, антипыль, 3т/м2"
+    },
+    "accordTerms": {
+      "readyToRent": "Нет",
+      "readyToContract": "Да",
+      "readyToRenovation": "Неизвестно"
+    },
+    "description": {
+      "comment": "ТЦ Эврика. Форматное помещение занято Семишаговым",
+      "fullDescription": "Форматное ОСЗ. Стоит рассмотреть его, предлагаю брать в работу. Собственник лояльный к условиям договора"
+    }
+  },
+  {
+    "id": "1039837107407",
+    "created_at": 1660597200000,
+    "status": "641dd030f9e759ee4fa79538",
+    "bookmark": false,
+    "contact": {
+      "phone": "+7(904)6648823",
+      "name": "Дмитрий Леший",
+      "position": "6415c19b2baf8f13d501d401",
+      "email": "meril@mail.ru"
+    },
+    "location": {
+      "city": "Сосновый Бор",
+      "adress": "Солнечная ул., 12",
+      "district": "6415b5375c121b8871677d62",
+      "latitude": 59.90114306420099,
+      "longitude": 29.085876999999954,
+      "zoom": 16
+    },
+    "estateOptions": {
+      "rentPrice": "700000",
+      "prepaidPrice": "1400000",
+      "rentalHolidays": "40",
+      "totalSquare": "1200",
+      "rentSquare": "700",
+      "premisesHeight": "4.2",
+      "premisesFloor": "Бетон, антипыль, 3т/м2"
+    },
+    "accordTerms": {
+      "readyToRent": "Нет",
+      "readyToContract": "Да",
+      "readyToRenovation": "Неизвестно"
+    },
+    "description": {
+      "comment": "ТЦ Эврика. Форматное помещение занято Семишаговым",
+      "fullDescription": "Форматное ОСЗ. Стоит рассмотреть его, предлагаю брать в работу. Собственник лояльный к условиям договора"
+    }
+  },
+  {
+    "id": "1012307107407",
+    "created_at": 1651698000000,
+    "status": "641dd030f9e759ee4fa79538",
+    "bookmark": false,
+    "contact": {
+      "phone": "+7(904)4442233",
+      "name": "Олег",
+      "position": "6415c19b2baf8f13d501d401",
+      "email": "oleg@mail.ru"
+    },
+    "location": {
+      "city": "Сосновый Бор",
+      "adress": "Копорское ш., 17",
+      "district": "6415b5375c121b8871677d62",
+      "latitude": 59.890696458642076,
+      "longitude": 29.103110982996355,
+      "zoom": 16
+    },
+    "estateOptions": {
+      "rentPrice": "700000",
+      "prepaidPrice": "1400000",
+      "rentalHolidays": "40",
+      "totalSquare": "1200",
+      "rentSquare": "700",
+      "premisesHeight": "4.2",
+      "premisesFloor": "Бетон, антипыль, 3т/м2"
+    },
+    "accordTerms": {
+      "readyToRent": "Нет",
+      "readyToContract": "Да",
+      "readyToRenovation": "Неизвестно"
+    },
+    "description": {
+      "comment": "ТЦ Эврика. Форматное помещение занято Семишаговым",
+      "fullDescription": "Форматное ОСЗ. Стоит рассмотреть его, предлагаю брать в работу. Собственник лояльный к условиям договора"
+    }
+  },
+  {
+    "id": "1041558401205",
+    "created_at": 1646600400000,
+    "status": "641dd030f9e759ee4fa79538",
+    "bookmark": false,
+    "contact": {
+      "phone": "+7(904)6648823",
+      "name": "Яна Шапкина",
+      "position": "6415c19b2baf8f13d501d401",
+      "email": "124Dac@mail.ru"
+    },
+    "location": {
+      "city": "Санкт-Петербург",
+      "adress": "Ильюшина ул., 5к1",
+      "district": "6415b5375c121b8871677d62",
+      "latitude": 60.00850456407175,
+      "longitude": 30.25114449999991,
+      "zoom": 16
+    },
+    "estateOptions": {
+      "rentPrice": "700000",
+      "prepaidPrice": "1400000",
+      "rentalHolidays": "40",
+      "totalSquare": "1200",
+      "rentSquare": "700",
+      "premisesHeight": "4.2",
+      "premisesFloor": "Бетон, антипыль, 3т/м2"
+    },
+    "accordTerms": {
+      "readyToRent": "Нет",
+      "readyToContract": "Да",
+      "readyToRenovation": "Неизвестно"
+    },
+    "description": {
+      "comment": "Автосалон Ниссан. Заказал выписку.",
+      "fullDescription": "Форматное ОСЗ. Стоит рассмотреть его, предлагаю брать в работу. Собственник лояльный к условиям договора"
+    }
+  },
+  {
+    "id": "4644981970303",
+    "created_at": 1638910800000,
+    "status": "641dd030f9e759ee4fa79538",
+    "bookmark": false,
+    "contact": {
+      "phone": "+7(901)5437655",
+      "name": "Роман Романович",
+      "position": "6415c19b2baf8f13d501d401",
+      "email": "roman4ik@mail.ru"
+    },
+    "location": {
+      "city": "Санкт-Петербург",
+      "adress": "Новоизмайловский пр-кт, 67к2",
+      "district": "6415b5375c121b8871677d62",
+      "latitude": 59.857500064275634,
+      "longitude": 30.30364199999997,
+      "zoom": 16
+    },
+    "estateOptions": {
+      "rentPrice": "700000",
+      "prepaidPrice": "1400000",
+      "rentalHolidays": "40",
+      "totalSquare": "1200",
+      "rentSquare": "700",
+      "premisesHeight": "4.2",
+      "premisesFloor": "Бетон, антипыль, 3т/м2"
+    },
+    "accordTerms": {
+      "readyToRent": "Нет",
+      "readyToContract": "Да",
+      "readyToRenovation": "Неизвестно"
+    },
+    "description": {
+      "comment": "Несколько ОСЗ, смущает близость Администрации района. Квадратура недостаточная.",
+      "fullDescription": "Форматное ОСЗ. Стоит рассмотреть его, предлагаю брать в работу. Собственник лояльный к условиям договора"
+    }
+  }
+]

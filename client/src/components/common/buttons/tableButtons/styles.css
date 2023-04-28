@@ -1,0 +1,8 @@
+.statusList__link:hover {
+  text-decoration: underline !important;
+}
+
+.statusList__activeLink {
+  color: white !important;
+  background-color: #dc3545 !important;
+}

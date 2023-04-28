@@ -1,0 +1,8 @@
+.findObject__container {
+  width: 900px;
+  height: 300px;
+}
+
+[class*="copyrights-pane"] {
+  display: none !important;
+}

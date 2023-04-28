@@ -1,0 +1,124 @@
+/* --- General --- */
+
+.container {
+  width: 240px;
+}
+.container_small {
+  width: 55px;
+  text-align: center;
+}
+
+.topSection {
+  color: white;
+}
+.topSection_small {
+  text-align: center;
+}
+
+.innerContainer {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #414041;
+}
+
+.bottomSection {
+  margin: 15px;
+  color: white;
+  /* text-align: center; */
+}
+
+.containerLi {
+  padding: 10px;
+}
+
+/* --- list styles --- */
+
+.ul {
+  padding-left: 10px;
+}
+
+.li {
+  list-style-type: none;
+  color: inherit;
+}
+
+.li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.liActive {
+  font-weight: 500;
+  text-decoration: underline !important;
+}
+
+a:hover {
+  color: inherit !important;
+}
+
+/* --- Narrow styles --- */
+
+.liNarrow {
+  list-style-type: none;
+  color: inherit;
+}
+
+.liNarrow:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  border-bottom: 4px solid yellow;
+}
+
+.liNarrowActive {
+  font-weight: 500;
+  text-decoration: underline !important;
+  border-bottom: 4px solid yellow;
+}
+
+.hideMenuBtn {
+  color: white;
+  padding-bottom: 20px;
+  transition: 1s ease-in;
+}
+.showMenuBtn {
+  color: white;
+  padding-bottom: 20px;
+  transition: 1s ease-in;
+  display: none;
+}
+
+.showMenuBtn__block {
+  display: flex;
+}
+
+.logoCompany__hideNavBar {
+  /* width: 20px; */
+  /* text-align: right; */
+  /* display: flex; */
+  /* justify-content: center; */
+  /* padding: 20px 0 50px 0; */
+}
+
+.showObjects__hideNavBar {
+  font-size: 20px;
+  color: white;
+  padding-bottom: 20px;
+}
+
+.showPresentations__hideNavBar {
+  font-size: 20px;
+  color: white;
+  padding-bottom: 20px;
+}
+
+.showFeedBack__hideNavBar {
+  font-size: 20px;
+  color: white;
+  padding-bottom: 20px;
+}
+
+.showNavBarElements__container {
+  display: none;
+}

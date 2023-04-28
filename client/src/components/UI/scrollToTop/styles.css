@@ -1,0 +1,23 @@
+.scrollToTop__container {
+  width: 50px;
+  height: 50px;
+  color: white;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+
+.scrollToTopBtn__resize {
+  color: rgb(0, 0, 0) !important;
+  font-size: 30px;
+}
+
+.scrollToTopBtn__hide {
+  opacity: 0;
+  transition: 0.3s ease-in;
+}
+
+.scrollToTopBtn__show {
+  opacity: 0.6;
+  transition: 0.3s ease-in;
+}

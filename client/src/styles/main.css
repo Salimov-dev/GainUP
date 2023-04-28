@@ -1,0 +1,55 @@
+@import "reset.css";
+
+/* ==== BODY ==== */
+
+html,
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif, sans-serif;
+  scroll-behavior: smooth;
+}
+
+.dark {
+  /* Dark mode */
+  color: rgb(255, 255, 255);
+  background-color: #212529;
+}
+
+/* ==== GENERAL ==== */
+
+h1 {
+  font-size: 24px;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.App {
+  display: flex;
+  min-height: 100vh;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 15px;
+  max-width: 1200px;
+}
+
+.none {
+  display: none !important;
+}
+
+.white {
+  background-color: rgb(255, 255, 255) !important;
+  color: black !important;
+  border: none !important;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #e4f2ff
+}
